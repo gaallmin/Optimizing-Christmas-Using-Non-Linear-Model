@@ -1,5 +1,5 @@
 # Christmas Festivity Optimization Projects 🎄
-Authors: Felix Grandner, Min Jegal
+**Authors: Felix Grandner, Min Jegal**
 
 This project showcases some innovative ideas to optimize one of the most festive and wholesome holidays, Christmas.
 
